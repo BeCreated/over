@@ -29,7 +29,8 @@ github提交问题：
     直接提交会失败
     需要先建立分支
     之后提交就可以成功了
-
+    commit  提交
+    commit and push 提交并发布
 
 
 
